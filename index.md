@@ -1,8 +1,7 @@
 ## Welcome to Bong Foodie
 
-You can use the [editor on GitHub](https://github.com/nilankersen/nilankersen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I've long believed that good food, good eating, is all about risk. Whether we're talking about unpasteurized Stilton, raw oysters or working for organized crime associates, food, for me, has always been an adventure.   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
