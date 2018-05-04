@@ -3,29 +3,15 @@
 I've long believed that good food, good eating, is all about risk. Whether we're talking about unpasteurized Stilton, raw oysters or working for organized crime associates, food, for me, has always been an adventure.   
 
 
-### Markdown
+### Social Media
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Follow me on:
 
-```markdown
-Syntax highlighted code block
+Instagram
+Facebook
+Snapchat
+Twitter
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
